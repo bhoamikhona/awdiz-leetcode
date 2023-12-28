@@ -1,3 +1,4 @@
 # Leetcode - JavaScript Solutions
 
-- [1. Two Sum](./two-sum.js)
+- [Two Sum](./two-sum.js)
+- [Max Consecutive Ones](./max-consecutive-ones.js)
