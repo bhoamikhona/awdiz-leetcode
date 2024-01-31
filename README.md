@@ -6,3 +6,4 @@
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/): [Solution](./palindrome-number.js)
 - [Remove Element](https://leetcode.com/problems/remove-element/description/): [Solution](./remove-element.js)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/): [Solution](./valid-parentheses.js)
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/): [Solution](./squares-of-a-sorted-array.js)
